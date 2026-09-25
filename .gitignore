@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+
+*.mjb
+
+.vscode/
+.DS_Store
