@@ -62,7 +62,7 @@ import mujoco.viewer
 # 文件 / 按键
 # ============================================================
 
-DEFAULT_XML = "black_description.xml"
+DEFAULT_XML = "~/mujoco_projects/quadruped-training-thanend/01_mujoco_urdf_sim/black_description.xml"
 
 STAND_KEY = "6"
 DAMPING_KEY = "7"
